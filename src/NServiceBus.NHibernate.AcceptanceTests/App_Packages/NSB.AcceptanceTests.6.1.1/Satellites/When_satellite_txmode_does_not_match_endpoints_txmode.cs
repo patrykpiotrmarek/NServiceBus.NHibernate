@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Satellites
+﻿namespace NServiceBus_6.AcceptanceTests.Satellites
 {
     using System;
     using System.Threading.Tasks;

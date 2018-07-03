@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Forwarding
+﻿namespace NServiceBus_6.AcceptanceTests.Forwarding
 {
     using System.Collections.Generic;
     using System.Threading.Tasks;

@@ -1,4 +1,4 @@
-namespace NServiceBus.Unicast.Subscriptions.NHibernate.Tests
+namespace NServiceBus_6.Unicast.Subscriptions.NHibernate.Tests
 {
     using System.IO;
     using global::NHibernate;

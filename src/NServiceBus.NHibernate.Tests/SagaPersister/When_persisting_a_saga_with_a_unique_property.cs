@@ -1,11 +1,11 @@
-﻿namespace NServiceBus.SagaPersisters.NHibernate.Tests
+﻿namespace NServiceBus_6.SagaPersisters.NHibernate.Tests
 {
     using System;
     using System.Threading.Tasks;
-    using NServiceBus.Extensibility;
-    using NServiceBus.NHibernate.Tests;
-    using NServiceBus.Sagas;
-    using NServiceBus.Testing;
+    using NServiceBus_6.Extensibility;
+    using NServiceBus_6.NHibernate.Tests;
+    using NServiceBus_6.Sagas;
+    using NServiceBus_6.Testing;
     using NUnit.Framework;
 
     [TestFixture]

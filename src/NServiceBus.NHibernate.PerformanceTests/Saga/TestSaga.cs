@@ -1,7 +1,7 @@
 ﻿namespace Runner.Saga
 {
     using System.Threading.Tasks;
-    using NServiceBus;
+    using NServiceBus_6;
 
     class TestSaga : Saga<SagaData>, IAmStartedByMessages<StartSagaMessage>, IHandleMessages<CompleteSagaMessage>
     {

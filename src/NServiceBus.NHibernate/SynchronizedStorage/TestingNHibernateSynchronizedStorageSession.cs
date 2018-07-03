@@ -1,10 +1,10 @@
-﻿namespace NServiceBus.Testing
+﻿namespace NServiceBus_6.Testing
 {
     using System;
     using System.Threading.Tasks;
     using global::NHibernate;
     using Janitor;
-    using NServiceBus.Persistence;
+    using NServiceBus_6.Persistence;
 
     /// <summary>
     /// Allows writing automated tests against handlers which use NServiceBus-managed NHibernate session.

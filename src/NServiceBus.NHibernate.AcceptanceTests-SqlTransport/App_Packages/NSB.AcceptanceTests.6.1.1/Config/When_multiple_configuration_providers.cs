@@ -1,10 +1,10 @@
-﻿namespace NServiceBus.AcceptanceTests.Config
+﻿namespace NServiceBus_6.AcceptanceTests.Config
 {
     using System;
     using AcceptanceTesting;
     using EndpointTemplates;
     using Features;
-    using NServiceBus.Config.ConfigurationSource;
+    using NServiceBus_6.Config.ConfigurationSource;
     using NUnit.Framework;
 
     public class When_multiple_configuration_providers : NServiceBusAcceptanceTest

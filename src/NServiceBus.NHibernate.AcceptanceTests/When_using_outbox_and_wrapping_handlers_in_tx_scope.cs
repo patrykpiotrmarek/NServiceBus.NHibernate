@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Reliability.Outbox
+﻿namespace NServiceBus_6.AcceptanceTests.Reliability.Outbox
 {
     using System;
     using System.Linq;
@@ -6,7 +6,7 @@
     using AcceptanceTesting;
     using Configuration.AdvanceExtensibility;
     using EndpointTemplates;
-    using NServiceBus.Logging;
+    using NServiceBus_6.Logging;
     using NUnit.Framework;
 
     public class When_using_outbox_and_wrapping_handlers_in_tx_scope : NServiceBusAcceptanceTest

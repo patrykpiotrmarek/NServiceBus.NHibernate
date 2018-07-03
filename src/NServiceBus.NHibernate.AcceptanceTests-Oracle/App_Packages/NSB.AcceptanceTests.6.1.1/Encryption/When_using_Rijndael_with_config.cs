@@ -1,12 +1,12 @@
-﻿namespace NServiceBus.AcceptanceTests.Encryption
+﻿namespace NServiceBus_6.AcceptanceTests.Encryption
 {
     using System;
     using System.Collections.Generic;
     using System.Threading.Tasks;
     using AcceptanceTesting;
     using EndpointTemplates;
-    using NServiceBus.Config;
-    using NServiceBus.Config.ConfigurationSource;
+    using NServiceBus_6.Config;
+    using NServiceBus_6.Config.ConfigurationSource;
     using NUnit.Framework;
 
     public class When_using_Rijndael_with_config : NServiceBusAcceptanceTest

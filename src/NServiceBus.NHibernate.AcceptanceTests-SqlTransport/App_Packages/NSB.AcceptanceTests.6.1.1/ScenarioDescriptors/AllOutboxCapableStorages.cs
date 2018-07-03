@@ -1,8 +1,8 @@
-﻿namespace NServiceBus.AcceptanceTests.ScenarioDescriptors
+﻿namespace NServiceBus_6_6.AcceptanceTests.ScenarioDescriptors
 {
     using System;
     using AcceptanceTesting.Support;
-    using NServiceBus.Persistence;
+    using NServiceBus_6.Persistence;
 
     public class AllOutboxCapableStorages : ScenarioDescriptor
     {

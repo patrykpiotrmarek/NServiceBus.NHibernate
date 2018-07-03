@@ -1,11 +1,11 @@
-﻿namespace NServiceBus.AcceptanceTests.Config
+﻿namespace NServiceBus_6.AcceptanceTests.Config
 {
     using System;
     using System.Threading.Tasks;
     using AcceptanceTesting;
     using EndpointTemplates;
-    using NServiceBus.Config;
-    using NServiceBus.Config.ConfigurationSource;
+    using NServiceBus_6.Config;
+    using NServiceBus_6.Config.ConfigurationSource;
     using NUnit.Framework;
 
     public class When_only_abstract_config_override_is_found : NServiceBusAcceptanceTest

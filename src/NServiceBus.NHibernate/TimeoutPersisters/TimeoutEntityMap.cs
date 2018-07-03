@@ -1,4 +1,4 @@
-namespace NServiceBus.TimeoutPersisters.NHibernate.Config
+namespace NServiceBus_6.TimeoutPersisters.NHibernate.Config
 {
     using global::NHibernate;
     using global::NHibernate.Mapping.ByCode;

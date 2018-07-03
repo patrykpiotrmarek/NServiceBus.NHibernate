@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Encryption
+﻿namespace NServiceBus_6.AcceptanceTests.Encryption
 {
     using System;
     using System.Collections.Generic;
@@ -6,7 +6,7 @@
     using System.Threading.Tasks;
     using AcceptanceTesting;
     using EndpointTemplates;
-    using NServiceBus.Pipeline;
+    using NServiceBus_6.Pipeline;
     using NUnit.Framework;
 
     public class When_using_encryption_with_custom_service : NServiceBusAcceptanceTest

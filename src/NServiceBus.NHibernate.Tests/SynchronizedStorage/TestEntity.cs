@@ -1,4 +1,4 @@
-namespace NServiceBus.NHibernate.Tests.SynchronizedStorage
+namespace NServiceBus_6.NHibernate.Tests.SynchronizedStorage
 {
     using global::NHibernate.Mapping.ByCode;
     using global::NHibernate.Mapping.ByCode.Conformist;

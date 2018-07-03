@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.Outbox
+﻿namespace NServiceBus_6.Outbox
 {
     using System.Data;
 

@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.SelfVerification
+﻿namespace NServiceBus_6.AcceptanceTests.SelfVerification
 {
     using System;
     using System.Collections.Generic;

@@ -1,4 +1,4 @@
-namespace NServiceBus.TimeoutPersisters.NHibernate.Tests
+namespace NServiceBus_6.TimeoutPersisters.NHibernate.Tests
 {
     using System;
     using System.Collections.Generic;
@@ -7,7 +7,7 @@ namespace NServiceBus.TimeoutPersisters.NHibernate.Tests
     using global::NHibernate;
     using global::NHibernate.Mapping.ByCode;
     using global::NHibernate.Tool.hbm2ddl;
-    using NServiceBus.Persistence.NHibernate;
+    using NServiceBus_6.Persistence.NHibernate;
     using NUnit.Framework;
 
     abstract class InMemoryDBFixture

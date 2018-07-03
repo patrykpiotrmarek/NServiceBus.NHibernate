@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Serialization
+﻿namespace NServiceBus_6.AcceptanceTests.Serialization
 {
     using System;
     using System.Collections.Generic;
@@ -9,7 +9,7 @@
     using Configuration.AdvanceExtensibility;
     using EndpointTemplates;
     using MessageInterfaces;
-    using NServiceBus.Serialization;
+    using NServiceBus_6.Serialization;
     using NUnit.Framework;
     using Settings;
 

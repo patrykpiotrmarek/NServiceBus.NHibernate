@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.ApiExtension
+﻿namespace NServiceBus_6.AcceptanceTests.ApiExtension
 {
     using System;
     using System.Threading.Tasks;
@@ -6,7 +6,7 @@
     using EndpointTemplates;
     using Extensibility;
     using Features;
-    using NServiceBus.Pipeline;
+    using NServiceBus_6.Pipeline;
     using NUnit.Framework;
     using Routing;
     using ScenarioDescriptors;

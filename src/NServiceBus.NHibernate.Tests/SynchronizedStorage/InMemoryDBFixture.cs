@@ -1,4 +1,4 @@
-namespace NServiceBus.NHibernate.Tests.SynchronizedStorage
+namespace NServiceBus_6.NHibernate.Tests.SynchronizedStorage
 {
     using System.IO;
     using global::NHibernate;

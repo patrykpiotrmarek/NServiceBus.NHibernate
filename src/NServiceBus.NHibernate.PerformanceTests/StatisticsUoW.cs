@@ -4,8 +4,8 @@
     using System.Threading;
     using System.Threading.Tasks;
     using System.Transactions;
-    using NServiceBus;
-    using NServiceBus.UnitOfWork;
+    using NServiceBus_6;
+    using NServiceBus_6.UnitOfWork;
 
     class StatisticsUoW : IManageUnitsOfWork, INeedInitialization
     {

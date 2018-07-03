@@ -1,4 +1,4 @@
-namespace NServiceBus.TimeoutPersisters.NHibernate
+namespace NServiceBus_6.TimeoutPersisters.NHibernate
 {
     using System;
     using Timeout.Core;

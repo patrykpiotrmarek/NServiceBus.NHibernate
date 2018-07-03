@@ -1,12 +1,12 @@
-namespace NServiceBus.Features
+namespace NServiceBus_6.Features
 {
     using System;
     using System.Threading.Tasks;
     using global::NHibernate.Cfg;
-    using NServiceBus.Persistence.NHibernate;
-    using NServiceBus.TimeoutPersisters.NHibernate;
-    using NServiceBus.TimeoutPersisters.NHibernate.Config;
-    using NServiceBus.TimeoutPersisters.NHibernate.Installer;
+    using NServiceBus_6.Persistence.NHibernate;
+    using NServiceBus_6.TimeoutPersisters.NHibernate;
+    using NServiceBus_6.TimeoutPersisters.NHibernate.Config;
+    using NServiceBus_6.TimeoutPersisters.NHibernate.Installer;
 
     /// <summary>
     /// NHibernate Timeout Storage.

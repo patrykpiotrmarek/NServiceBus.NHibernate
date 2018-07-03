@@ -1,4 +1,4 @@
-namespace NServiceBus.SagaPersisters.NHibernate.Tests
+namespace NServiceBus_6.SagaPersisters.NHibernate.Tests
 {
     using System;
     using System.Linq;
@@ -7,9 +7,9 @@ namespace NServiceBus.SagaPersisters.NHibernate.Tests
     using global::NHibernate.Id;
     using global::NHibernate.Impl;
     using global::NHibernate.Persister.Entity;
-    using NServiceBus.Features;
-    using NServiceBus.Sagas;
-    using NServiceBus.Settings;
+    using NServiceBus_6.Features;
+    using NServiceBus_6.Sagas;
+    using NServiceBus_6.Settings;
     using NUnit.Framework;
 
     [TestFixture]

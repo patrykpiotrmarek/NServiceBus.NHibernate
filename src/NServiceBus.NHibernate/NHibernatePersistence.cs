@@ -1,4 +1,4 @@
-﻿namespace NServiceBus
+﻿namespace NServiceBus_6
 {
     using Features;
     using Persistence;

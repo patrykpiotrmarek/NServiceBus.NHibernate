@@ -1,4 +1,4 @@
-namespace NServiceBus.SagaPersisters.NHibernate
+namespace NServiceBus_6.SagaPersisters.NHibernate
 {
     /// <summary>
     /// The <see cref="LockModes"/> class defines the different lock levels that may be acquired by NHibernate.

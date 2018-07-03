@@ -1,4 +1,4 @@
-namespace NServiceBus.Unicast.Subscriptions.NHibernate.Installer
+namespace NServiceBus_6.Unicast.Subscriptions.NHibernate.Installer
 {
     using System;
     using System.Threading.Tasks;

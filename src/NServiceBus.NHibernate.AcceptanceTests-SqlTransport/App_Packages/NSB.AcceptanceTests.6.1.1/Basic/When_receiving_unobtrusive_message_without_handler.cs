@@ -1,4 +1,4 @@
-namespace NServiceBus.AcceptanceTests.Basic
+namespace NServiceBus_6.AcceptanceTests.Basic
 {
     using System.Linq;
     using System.Threading.Tasks;

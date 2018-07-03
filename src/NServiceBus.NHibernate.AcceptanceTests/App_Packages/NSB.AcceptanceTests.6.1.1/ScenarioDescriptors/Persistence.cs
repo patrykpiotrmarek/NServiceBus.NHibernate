@@ -1,10 +1,10 @@
-﻿namespace NServiceBus.AcceptanceTests.ScenarioDescriptors
+﻿namespace NServiceBus_6.AcceptanceTests.ScenarioDescriptors
 {
     using System;
     using System.Collections.Generic;
     using System.Linq;
     using AcceptanceTesting.Support;
-    using NServiceBus.Persistence;
+    using NServiceBus_6.Persistence;
 
     public static class Persistence
     {

@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.DataBus
+﻿namespace NServiceBus_6.AcceptanceTests.DataBus
 {
     using System.IO;
     using System.Threading.Tasks;

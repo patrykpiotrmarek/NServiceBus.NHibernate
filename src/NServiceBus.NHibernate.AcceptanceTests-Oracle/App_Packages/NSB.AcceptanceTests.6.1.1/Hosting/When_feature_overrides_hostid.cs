@@ -1,4 +1,4 @@
-namespace NServiceBus.AcceptanceTests.Hosting
+namespace NServiceBus_6.AcceptanceTests.Hosting
 {
     using System;
     using System.Collections.Concurrent;

@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Performance
+﻿namespace NServiceBus_6.AcceptanceTests.Performance
 {
     using System;
     using System.Collections.Generic;

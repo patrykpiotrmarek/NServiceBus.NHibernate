@@ -1,4 +1,4 @@
-namespace NServiceBus.Persistence.NHibernate.Tests
+namespace NServiceBus_6.Persistence.NHibernate.Tests
 {
     using System;
     using System.Collections.Generic;

@@ -1,11 +1,11 @@
-﻿namespace NServiceBus.AcceptanceTests.ScenarioDescriptors
+﻿namespace NServiceBus_6.AcceptanceTests.ScenarioDescriptors
 {
     using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Reflection;
     using AcceptanceTesting.Support;
-    using NServiceBus.Hosting.Helpers;
+    using NServiceBus_6.Hosting.Helpers;
 
     public class AllTransports : ScenarioDescriptor
     {

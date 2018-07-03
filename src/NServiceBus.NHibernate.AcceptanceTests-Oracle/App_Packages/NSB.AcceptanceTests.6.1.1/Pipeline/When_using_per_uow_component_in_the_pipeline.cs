@@ -1,11 +1,11 @@
-﻿namespace NServiceBus.AcceptanceTests.Pipeline
+﻿namespace NServiceBus_6.AcceptanceTests.Pipeline
 {
     using System;
     using System.Threading;
     using System.Threading.Tasks;
     using AcceptanceTesting;
     using EndpointTemplates;
-    using NServiceBus.Pipeline;
+    using NServiceBus_6.Pipeline;
     using NUnit.Framework;
 
     public class When_using_per_uow_component_in_the_pipeline : NServiceBusAcceptanceTest

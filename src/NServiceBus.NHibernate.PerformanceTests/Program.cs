@@ -7,10 +7,10 @@
     using System.Threading;
     using System.Threading.Tasks;
     using System.Transactions;
-    using NServiceBus;
-    using NServiceBus.Configuration.AdvanceExtensibility;
-    using NServiceBus.Features;
-    using NServiceBus.Persistence.NHibernate;
+    using NServiceBus_6;
+    using NServiceBus_6.Configuration.AdvanceExtensibility;
+    using NServiceBus_6.Features;
+    using NServiceBus_6.Persistence.NHibernate;
     using Saga;
 
     

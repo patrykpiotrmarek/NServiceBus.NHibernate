@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("NServiceBus.NHibernate")]
+[assembly: AssemblyTitle("NServiceBus_6.NHibernate")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyCopyright("Copyright NServiceBus. All rights reserved")]
 [assembly: AssemblyProduct("NServiceBus NHibernate Integration")]

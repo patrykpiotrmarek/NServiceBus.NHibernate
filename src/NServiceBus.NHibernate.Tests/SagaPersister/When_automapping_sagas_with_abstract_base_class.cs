@@ -1,4 +1,4 @@
-namespace NServiceBus.SagaPersisters.NHibernate.Tests
+namespace NServiceBus_6.SagaPersisters.NHibernate.Tests
 {
     using System;
     using System.Threading.Tasks;
@@ -6,7 +6,7 @@ namespace NServiceBus.SagaPersisters.NHibernate.Tests
     using global::NHibernate.Cfg;
     using global::NHibernate.Impl;
     using global::NHibernate.Persister.Entity;
-    using NServiceBus.Sagas;
+    using NServiceBus_6.Sagas;
     using NUnit.Framework;
     using Settings;
 

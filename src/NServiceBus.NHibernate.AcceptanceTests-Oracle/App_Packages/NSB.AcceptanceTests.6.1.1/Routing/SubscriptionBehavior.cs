@@ -1,9 +1,9 @@
-﻿namespace NServiceBus.AcceptanceTests.Routing
+﻿namespace NServiceBus_6.AcceptanceTests.Routing
 {
     using System;
     using System.Threading.Tasks;
     using AcceptanceTesting;
-    using NServiceBus.Pipeline;
+    using NServiceBus_6.Pipeline;
     using Transport;
 
     class SubscriptionBehavior<TContext> : IBehavior<ITransportReceiveContext, ITransportReceiveContext> where TContext : ScenarioContext

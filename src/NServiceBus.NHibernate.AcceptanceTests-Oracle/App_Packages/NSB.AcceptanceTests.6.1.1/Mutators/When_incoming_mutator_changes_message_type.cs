@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Mutators
+﻿namespace NServiceBus_6.AcceptanceTests.Mutators
 {
     using System.Threading.Tasks;
     using AcceptanceTesting;

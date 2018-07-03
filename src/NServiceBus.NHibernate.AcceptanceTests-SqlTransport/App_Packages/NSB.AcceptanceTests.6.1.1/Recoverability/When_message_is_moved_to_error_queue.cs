@@ -1,11 +1,11 @@
-﻿namespace NServiceBus.AcceptanceTests.Recoverability
+﻿namespace NServiceBus_6.AcceptanceTests.Recoverability
 {
     using System;
     using System.Threading.Tasks;
     using AcceptanceTesting;
     using AcceptanceTesting.Customization;
     using EndpointTemplates;
-    using NServiceBus.Pipeline;
+    using NServiceBus_6.Pipeline;
     using NUnit.Framework;
     using ScenarioDescriptors;
 
@@ -61,7 +61,7 @@
                 .Done(c => c.MessageMovedToErrorQueue)
                 .Run();
 
-            Assert.That(context.Logs, Has.Some.Message.Match($"Moving message .+ to the error queue '{ Conventions.EndpointNamingConvention(typeof(ErrorSpy)) }' because processing failed due to an exception: NServiceBus.AcceptanceTesting.SimulatedException:"));
+            Assert.That(context.Logs, Has.Some.Message.Match($"Moving message .+ to the error queue '{ Conventions.EndpointNamingConvention(typeof(ErrorSpy)) }' because processing failed due to an exception: NServiceBus_6.AcceptanceTesting.SimulatedException:"));
         }
 
         class Context : ScenarioContext

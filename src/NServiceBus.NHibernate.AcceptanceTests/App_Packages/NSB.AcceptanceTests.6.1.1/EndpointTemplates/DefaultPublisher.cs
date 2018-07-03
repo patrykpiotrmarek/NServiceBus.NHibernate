@@ -1,9 +1,9 @@
-namespace NServiceBus.AcceptanceTests.EndpointTemplates
+namespace NServiceBus_6.AcceptanceTests.EndpointTemplates
 {
     using System;
     using System.Threading.Tasks;
     using AcceptanceTesting.Support;
-    using NServiceBus.Config.ConfigurationSource;
+    using NServiceBus_6.Config.ConfigurationSource;
 
     public class DefaultPublisher : IEndpointSetupTemplate
     {

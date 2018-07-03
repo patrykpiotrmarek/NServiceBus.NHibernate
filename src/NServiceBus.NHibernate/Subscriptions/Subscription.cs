@@ -1,4 +1,4 @@
-namespace NServiceBus.Unicast.Subscriptions.NHibernate
+namespace NServiceBus_6.Unicast.Subscriptions.NHibernate
 {
     /// <summary>
     /// Entity containing subscription data

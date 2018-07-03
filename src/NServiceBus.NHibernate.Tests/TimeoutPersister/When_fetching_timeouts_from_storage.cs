@@ -1,10 +1,10 @@
-namespace NServiceBus.TimeoutPersisters.NHibernate.Tests
+namespace NServiceBus_6.TimeoutPersisters.NHibernate.Tests
 {
     using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Threading.Tasks;
-    using NServiceBus.Extensibility;
+    using NServiceBus_6.Extensibility;
     using NUnit.Framework;
     using Timeout.Core;
 

@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.Deduplication.NHibernate.Installer
+﻿namespace NServiceBus_6.Deduplication.NHibernate.Installer
 {
     using System;
     using System.Threading.Tasks;

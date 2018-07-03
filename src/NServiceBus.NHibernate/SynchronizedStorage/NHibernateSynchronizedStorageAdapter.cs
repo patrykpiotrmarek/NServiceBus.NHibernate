@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.Persistence.NHibernate
+﻿namespace NServiceBus_6.Persistence.NHibernate
 {
     using System;
     using System.Data;
@@ -7,12 +7,12 @@
     using System.Transactions;
     using global::NHibernate;
     using global::NHibernate.Impl;
-    using NServiceBus.Extensibility;
-    using NServiceBus.Logging;
-    using NServiceBus.Outbox;
-    using NServiceBus.Outbox.NHibernate;
-    using NServiceBus.Persistence;
-    using NServiceBus.Transport;
+    using NServiceBus_6.Extensibility;
+    using NServiceBus_6.Logging;
+    using NServiceBus_6.Outbox;
+    using NServiceBus_6.Outbox.NHibernate;
+    using NServiceBus_6.Persistence;
+    using NServiceBus_6.Transport;
 
     class NHibernateSynchronizedStorageAdapter : ISynchronizedStorageAdapter
     {

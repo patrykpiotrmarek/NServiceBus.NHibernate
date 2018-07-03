@@ -1,4 +1,4 @@
-namespace NServiceBus.Persistence.NHibernate
+namespace NServiceBus_6.Persistence.NHibernate
 {
     using System;
     using Configuration.AdvanceExtensibility;

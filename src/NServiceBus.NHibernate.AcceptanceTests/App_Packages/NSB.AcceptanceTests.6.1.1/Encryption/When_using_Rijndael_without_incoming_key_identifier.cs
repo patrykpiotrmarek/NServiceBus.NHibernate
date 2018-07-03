@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Encryption
+﻿namespace NServiceBus_6.AcceptanceTests.Encryption
 {
     using System.Collections.Generic;
     using System.Text;

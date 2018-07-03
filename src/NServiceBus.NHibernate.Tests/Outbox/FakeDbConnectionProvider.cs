@@ -1,7 +1,7 @@
-namespace NServiceBus.NHibernate.Tests.Outbox
+namespace NServiceBus_6.NHibernate.Tests.Outbox
 {
     using System.Data;
-    using NServiceBus.Outbox;
+    using NServiceBus_6.Outbox;
 
     class FakeDbConnectionProvider : IDbConnectionProvider
     {

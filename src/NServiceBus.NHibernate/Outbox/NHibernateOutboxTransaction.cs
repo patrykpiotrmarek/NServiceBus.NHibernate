@@ -1,10 +1,10 @@
-﻿namespace NServiceBus.Outbox.NHibernate
+﻿namespace NServiceBus_6.Outbox.NHibernate
 {
     using System;
     using System.Threading.Tasks;
     using global::NHibernate;
     using Janitor;
-    using NServiceBus.Outbox;
+    using NServiceBus_6.Outbox;
 
     [SkipWeaving]
     class NHibernateOutboxTransaction : OutboxTransaction

@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Timeouts
+﻿namespace NServiceBus_6.AcceptanceTests.Timeouts
 {
     using System;
     using System.Collections.Concurrent;

@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Reliability.Outbox
+﻿namespace NServiceBus_6.AcceptanceTests.Reliability.Outbox
 {
     using System;
     using System.Threading.Tasks;

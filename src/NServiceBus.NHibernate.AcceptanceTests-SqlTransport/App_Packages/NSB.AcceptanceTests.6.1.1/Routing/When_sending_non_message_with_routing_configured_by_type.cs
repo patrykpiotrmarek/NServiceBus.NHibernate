@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.BestPractices
+﻿namespace NServiceBus_6.AcceptanceTests.BestPractices
 {
     using System;
     using AcceptanceTesting;

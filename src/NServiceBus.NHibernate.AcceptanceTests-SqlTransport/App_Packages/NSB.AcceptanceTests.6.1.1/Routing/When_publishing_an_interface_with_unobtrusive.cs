@@ -1,11 +1,11 @@
-﻿namespace NServiceBus.AcceptanceTests.Routing
+﻿namespace NServiceBus_6.AcceptanceTests.Routing
 {
     using System;
     using System.Threading.Tasks;
     using AcceptanceTesting;
     using EndpointTemplates;
     using Features;
-    using NServiceBus.Pipeline;
+    using NServiceBus_6.Pipeline;
     using NUnit.Framework;
     using ScenarioDescriptors;
 

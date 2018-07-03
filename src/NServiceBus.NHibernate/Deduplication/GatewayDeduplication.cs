@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.Deduplication.NHibernate
+﻿namespace NServiceBus_6.Deduplication.NHibernate
 {
     using System;
     using System.Data;
@@ -7,7 +7,7 @@
     using Gateway.Deduplication;
     using global::NHibernate;
     using global::NHibernate.Exceptions;
-    using NServiceBus.Extensibility;
+    using NServiceBus_6.Extensibility;
 
     class GatewayDeduplication : IDeduplicateMessages
     {

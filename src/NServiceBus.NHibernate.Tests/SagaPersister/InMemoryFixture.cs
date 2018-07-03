@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.NHibernate.Tests
+﻿namespace NServiceBus_6.NHibernate.Tests
 {
     using System;
     using System.Collections.Generic;
@@ -6,9 +6,9 @@
     using global::NHibernate;
     using global::NHibernate.Cfg;
     using global::NHibernate.Tool.hbm2ddl;
-    using NServiceBus.SagaPersisters.NHibernate;
-    using NServiceBus.SagaPersisters.NHibernate.AutoPersistence;
-    using NServiceBus.Sagas;
+    using NServiceBus_6.SagaPersisters.NHibernate;
+    using NServiceBus_6.SagaPersisters.NHibernate.AutoPersistence;
+    using NServiceBus_6.Sagas;
     using NUnit.Framework;
     using Environment = global::NHibernate.Cfg.Environment;
 

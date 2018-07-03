@@ -1,9 +1,9 @@
-﻿namespace NServiceBus
+﻿namespace NServiceBus_6
 {
     using System;
     using System.Threading.Tasks;
     using global::NHibernate;
-    using NServiceBus.Persistence;
+    using NServiceBus_6.Persistence;
 
     /// <summary>
     /// Shared session extensions for NHibernate persistence.

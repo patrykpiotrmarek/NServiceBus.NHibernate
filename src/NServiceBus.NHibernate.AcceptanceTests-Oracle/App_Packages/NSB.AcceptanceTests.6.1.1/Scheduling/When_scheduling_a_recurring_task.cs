@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Scheduling
+﻿namespace NServiceBus_6.AcceptanceTests.Scheduling
 {
     using System;
     using System.Threading.Tasks;

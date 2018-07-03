@@ -1,4 +1,4 @@
-namespace NServiceBus.NHibernate.Tests.Outbox
+namespace NServiceBus_6.NHibernate.Tests.Outbox
 {
     using System;
     using System.Collections.Generic;
@@ -10,10 +10,10 @@ namespace NServiceBus.NHibernate.Tests.Outbox
     using global::NHibernate.Mapping.ByCode;
     using global::NHibernate.Mapping.ByCode.Conformist;
     using global::NHibernate.Tool.hbm2ddl;
-    using NServiceBus.Extensibility;
-    using NServiceBus.Outbox;
-    using NServiceBus.Outbox.NHibernate;
-    using NServiceBus.Persistence.NHibernate;
+    using NServiceBus_6.Extensibility;
+    using NServiceBus_6.Outbox;
+    using NServiceBus_6.Outbox.NHibernate;
+    using NServiceBus_6.Persistence.NHibernate;
     using NUnit.Framework;
     using Environment = global::NHibernate.Cfg.Environment;
 

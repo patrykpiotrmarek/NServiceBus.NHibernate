@@ -2,7 +2,7 @@
 {
     using System;
 
-    using NServiceBus;
+    using NServiceBus_6;
 
     [Serializable]
     public class MessageBase : IMessage

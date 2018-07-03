@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.SelfVerification
+﻿namespace NServiceBus_6.AcceptanceTests.SelfVerification
 {
     using System;
     using System.Collections.Generic;
@@ -16,7 +16,7 @@
             var sagaEntities = Assembly.GetExecutingAssembly().GetTypes()
                 .Where(t => typeof(IContainSagaData).IsAssignableFrom(t) && !t.IsInterface &&
                             //only include core tests
-                            t.Namespace != null && t.Namespace.StartsWith("NServiceBus.AcceptanceTests"))
+                            t.Namespace != null && t.Namespace.StartsWith("NServiceBus_6.AcceptanceTests"))
                 .ToArray();
 
             var offenders = 0;

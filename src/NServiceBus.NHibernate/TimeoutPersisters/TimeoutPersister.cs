@@ -1,4 +1,4 @@
-namespace NServiceBus.TimeoutPersisters.NHibernate
+namespace NServiceBus_6.TimeoutPersisters.NHibernate
 {
     using System;
     using System.Collections.Generic;
@@ -7,10 +7,10 @@ namespace NServiceBus.TimeoutPersisters.NHibernate
     using System.Threading.Tasks;
     using System.Transactions;
     using global::NHibernate;
-    using NServiceBus.Extensibility;
-    using NServiceBus.Persistence;
-    using NServiceBus.Persistence.NHibernate;
-    using NServiceBus.Transport;
+    using NServiceBus_6.Extensibility;
+    using NServiceBus_6.Persistence;
+    using NServiceBus_6.Persistence.NHibernate;
+    using NServiceBus_6.Transport;
     using Timeout.Core;
     using IsolationLevel = System.Data.IsolationLevel;
 

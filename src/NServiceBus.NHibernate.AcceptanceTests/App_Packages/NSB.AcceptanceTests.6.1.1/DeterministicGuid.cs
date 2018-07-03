@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.Utils
+﻿namespace NServiceBus_6.Utils
 {
     using System;
     using System.Security.Cryptography;

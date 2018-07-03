@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.PerfMon.CriticalTime
+﻿namespace NServiceBus_6.AcceptanceTests.PerfMon.CriticalTime
 {
     using System;
     using System.Diagnostics;

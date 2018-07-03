@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.CriticalError
+﻿namespace NServiceBus_6.AcceptanceTests.CriticalError
 {
     using System;
     using System.Collections.Concurrent;

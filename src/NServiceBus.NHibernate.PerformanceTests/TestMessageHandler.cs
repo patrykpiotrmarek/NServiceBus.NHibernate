@@ -5,7 +5,7 @@
     using System.Threading.Tasks;
     using System.Transactions;
 
-    using NServiceBus;
+    using NServiceBus_6;
 
     class TestMessageHandler:IHandleMessages<TestMessage>
     {

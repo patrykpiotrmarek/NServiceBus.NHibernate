@@ -1,9 +1,9 @@
-namespace NServiceBus.TimeoutPersisters.NHibernate.Installer
+namespace NServiceBus_6.TimeoutPersisters.NHibernate.Installer
 {
     using System;
     using System.Threading.Tasks;
     using Installation;
-    using NServiceBus.Settings;
+    using NServiceBus_6.Settings;
 
     class Installer : INeedToInstallSomething
     {

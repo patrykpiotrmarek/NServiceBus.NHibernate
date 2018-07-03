@@ -1,4 +1,4 @@
-namespace NServiceBus.Persistence.NHibernate.Installer
+namespace NServiceBus_6.Persistence.NHibernate.Installer
 {
     using System;
     using System.Threading.Tasks;

@@ -1,13 +1,13 @@
-namespace NServiceBus.SagaPersisters.NHibernate
+namespace NServiceBus_6.SagaPersisters.NHibernate
 {
     using System;
     using System.Linq;
     using System.Threading.Tasks;
     using global::NHibernate;
     using global::NHibernate.Criterion;
-    using NServiceBus.Extensibility;
-    using NServiceBus.Persistence;
-    using NServiceBus.Sagas;
+    using NServiceBus_6.Extensibility;
+    using NServiceBus_6.Persistence;
+    using NServiceBus_6.Sagas;
 
     class SagaPersister : ISagaPersister
     {

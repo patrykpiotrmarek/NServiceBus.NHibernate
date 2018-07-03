@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.Deduplication.NHibernate.Config
+﻿namespace NServiceBus_6.Deduplication.NHibernate.Config
 {
     using System;
 

@@ -1,4 +1,4 @@
-namespace NServiceBus.Unicast.Subscriptions.NHibernate
+namespace NServiceBus_6.Unicast.Subscriptions.NHibernate
 {
     using System;
     using System.Collections.Concurrent;
@@ -6,8 +6,8 @@ namespace NServiceBus.Unicast.Subscriptions.NHibernate
     using System.Linq;
     using System.Threading.Tasks;
     using global::NHibernate;
-    using NServiceBus.Extensibility;
-    using NServiceBus.Unicast.Subscriptions.MessageDrivenSubscriptions;
+    using NServiceBus_6.Extensibility;
+    using NServiceBus_6.Unicast.Subscriptions.MessageDrivenSubscriptions;
 
     class CachedSubscriptionPersister : SubscriptionPersister
     {

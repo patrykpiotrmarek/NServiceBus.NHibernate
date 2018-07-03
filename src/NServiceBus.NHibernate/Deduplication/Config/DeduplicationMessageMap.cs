@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.Deduplication.NHibernate.Config
+﻿namespace NServiceBus_6.Deduplication.NHibernate.Config
 {
     using global::NHibernate.Mapping.ByCode;
     using global::NHibernate.Mapping.ByCode.Conformist;

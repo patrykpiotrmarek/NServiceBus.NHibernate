@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Correlation
+﻿namespace NServiceBus_6.AcceptanceTests.Correlation
 {
     using System.Threading.Tasks;
     using AcceptanceTesting;

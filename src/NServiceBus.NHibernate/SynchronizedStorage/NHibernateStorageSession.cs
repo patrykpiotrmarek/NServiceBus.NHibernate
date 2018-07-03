@@ -1,4 +1,4 @@
-namespace NServiceBus.Features
+namespace NServiceBus_6.Features
 {
     using System;
     using System.Linq;
@@ -8,7 +8,7 @@ namespace NServiceBus.Features
     using global::NHibernate.Mapping.ByCode;
     using NHibernate.Outbox;
     using global::NHibernate.Transaction;
-    using NServiceBus.Outbox.NHibernate;
+    using NServiceBus_6.Outbox.NHibernate;
     using TimeoutPersisters.NHibernate.Installer;
     using Persistence.NHibernate;
     using Environment = global::NHibernate.Cfg.Environment;

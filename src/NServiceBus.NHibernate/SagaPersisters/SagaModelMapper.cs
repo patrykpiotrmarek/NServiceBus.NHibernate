@@ -1,4 +1,4 @@
-namespace NServiceBus.SagaPersisters.NHibernate.AutoPersistence
+namespace NServiceBus_6.SagaPersisters.NHibernate.AutoPersistence
 {
     using System;
     using System.Collections;
@@ -9,7 +9,7 @@ namespace NServiceBus.SagaPersisters.NHibernate.AutoPersistence
     using global::NHibernate.Cfg.MappingSchema;
     using global::NHibernate.Mapping.ByCode;
     using global::NHibernate.Type;
-    using NServiceBus.Sagas;
+    using NServiceBus_6.Sagas;
 
     class SagaModelMapper
     {

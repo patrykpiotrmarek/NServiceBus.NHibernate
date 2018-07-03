@@ -1,9 +1,9 @@
-namespace NServiceBus.Persistence.NHibernate
+namespace NServiceBus_6.Persistence.NHibernate
 {
     using System;
     using Configuration.AdvanceExtensibility;
     using global::NHibernate.Cfg;
-    using NServiceBus.Features;
+    using NServiceBus_6.Features;
 
     /// <summary>
     /// Subscription configuration extensions.

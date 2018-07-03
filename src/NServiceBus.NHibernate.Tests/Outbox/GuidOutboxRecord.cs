@@ -1,10 +1,10 @@
-namespace NServiceBus.NHibernate.Tests.Outbox
+namespace NServiceBus_6.NHibernate.Tests.Outbox
 {
     using System;
     using global::NHibernate;
     using global::NHibernate.Mapping.ByCode;
     using global::NHibernate.Mapping.ByCode.Conformist;
-    using NServiceBus.Outbox.NHibernate;
+    using NServiceBus_6.Outbox.NHibernate;
 
     class GuidOutboxRecord : IOutboxRecord
     {

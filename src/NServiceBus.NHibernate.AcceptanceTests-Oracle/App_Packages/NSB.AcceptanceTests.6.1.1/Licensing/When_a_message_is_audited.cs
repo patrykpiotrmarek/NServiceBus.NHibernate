@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Licensing
+﻿namespace NServiceBus_6.AcceptanceTests.Licensing
 {
     using System.Diagnostics;
     using System.Linq;

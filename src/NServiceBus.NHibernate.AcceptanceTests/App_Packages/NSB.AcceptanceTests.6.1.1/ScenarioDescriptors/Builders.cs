@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.ScenarioDescriptors
+﻿namespace NServiceBus_6.AcceptanceTests.ScenarioDescriptors
 {
     using System;
     using System.Collections.Generic;
@@ -23,7 +23,7 @@
         static Lazy<List<Type>> foundDefinitions = new Lazy<List<Type>>(() =>
         {
             return TypeScanner.GetAllTypesAssignableTo<ContainerDefinition>()
-                .Where(t => !t.Assembly.FullName.StartsWith("NServiceBus.Core")) //exclude the default builder
+                .Where(t => !t.Assembly.FullName.StartsWith("NServiceBus_6.Core")) //exclude the default builder
                 .ToList();
         });
     }

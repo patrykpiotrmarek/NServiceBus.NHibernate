@@ -1,9 +1,9 @@
-namespace NServiceBus.Unicast.Subscriptions.NHibernate.Tests
+namespace NServiceBus_6.Unicast.Subscriptions.NHibernate.Tests
 {
     using System.Collections.Generic;
     using System.Linq;
     using System.Threading.Tasks;
-    using NServiceBus.Extensibility;
+    using NServiceBus_6.Extensibility;
     using NUnit.Framework;
 
     [TestFixture]

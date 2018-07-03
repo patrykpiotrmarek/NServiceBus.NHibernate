@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Recoverability
+﻿namespace NServiceBus_6.AcceptanceTests.Recoverability
 {
     using System.Threading.Tasks;
     using AcceptanceTesting;

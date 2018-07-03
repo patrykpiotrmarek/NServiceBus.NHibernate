@@ -1,10 +1,10 @@
-﻿namespace NServiceBus.NHibernate.Tests.SynchronizedStorage
+﻿namespace NServiceBus_6.NHibernate.Tests.SynchronizedStorage
 {
     using System;
     using System.Threading.Tasks;
-    using NServiceBus.Extensibility;
-    using NServiceBus.Outbox.NHibernate;
-    using NServiceBus.Persistence.NHibernate;
+    using NServiceBus_6.Extensibility;
+    using NServiceBus_6.Outbox.NHibernate;
+    using NServiceBus_6.Persistence.NHibernate;
     using NUnit.Framework;
 
     [TestFixture]

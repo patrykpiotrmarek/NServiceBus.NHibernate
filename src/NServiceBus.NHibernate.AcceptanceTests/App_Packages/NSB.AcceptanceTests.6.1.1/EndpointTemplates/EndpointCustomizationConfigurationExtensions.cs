@@ -1,11 +1,11 @@
-﻿namespace NServiceBus.AcceptanceTests.EndpointTemplates
+﻿namespace NServiceBus_6.AcceptanceTests.EndpointTemplates
 {
     using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Reflection;
     using AcceptanceTesting.Support;
-    using NServiceBus.Hosting.Helpers;
+    using NServiceBus_6.Hosting.Helpers;
 
     public static class EndpointCustomizationConfigurationExtensions
     {

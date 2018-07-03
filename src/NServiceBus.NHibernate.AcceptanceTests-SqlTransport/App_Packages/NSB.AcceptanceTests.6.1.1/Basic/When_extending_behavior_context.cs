@@ -1,10 +1,10 @@
-﻿namespace NServiceBus.AcceptanceTests.Basic
+﻿namespace NServiceBus_6.AcceptanceTests.Basic
 {
     using System;
     using System.Threading.Tasks;
     using AcceptanceTesting;
     using EndpointTemplates;
-    using NServiceBus.Pipeline;
+    using NServiceBus_6.Pipeline;
     using NUnit.Framework;
 
     public class When_extending_behavior_context : NServiceBusAcceptanceTest

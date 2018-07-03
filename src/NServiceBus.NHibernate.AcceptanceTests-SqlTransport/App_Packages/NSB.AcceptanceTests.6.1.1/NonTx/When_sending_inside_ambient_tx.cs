@@ -1,11 +1,11 @@
-﻿namespace NServiceBus.AcceptanceTests.NonTx
+﻿namespace NServiceBus_6.AcceptanceTests.NonTx
 {
     using System;
     using System.Threading.Tasks;
     using System.Transactions;
     using AcceptanceTesting;
     using EndpointTemplates;
-    using NServiceBus.Pipeline;
+    using NServiceBus_6.Pipeline;
     using NUnit.Framework;
     using ScenarioDescriptors;
 

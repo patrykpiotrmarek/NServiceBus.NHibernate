@@ -1,4 +1,4 @@
-namespace NServiceBus.Unicast.Subscriptions.NHibernate.Config
+namespace NServiceBus_6.Unicast.Subscriptions.NHibernate.Config
 {
     using System;
     using global::NHibernate.Mapping.ByCode;

@@ -1,8 +1,8 @@
-﻿namespace NServiceBus.NHibernate.Outbox
+﻿namespace NServiceBus_6.NHibernate.Outbox
 {
     using global::NHibernate;
-    using NServiceBus.Outbox.NHibernate;
-    using NServiceBus.Persistence.NHibernate;
+    using NServiceBus_6.Outbox.NHibernate;
+    using NServiceBus_6.Persistence.NHibernate;
 
     interface IOutboxPersisterFactory
     {

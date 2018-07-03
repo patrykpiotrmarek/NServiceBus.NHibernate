@@ -1,4 +1,4 @@
-namespace NServiceBus.TimeoutPersisters.NHibernate.Tests
+namespace NServiceBus_6.TimeoutPersisters.NHibernate.Tests
 {
     using System;
     using System.Collections.Generic;
@@ -8,8 +8,8 @@ namespace NServiceBus.TimeoutPersisters.NHibernate.Tests
     using System.Threading.Tasks;
     using System.Transactions;
     using global::NHibernate.Impl;
-    using NServiceBus.Extensibility;
-    using NServiceBus.Transport;
+    using NServiceBus_6.Extensibility;
+    using NServiceBus_6.Transport;
     using NUnit.Framework;
     using Timeout.Core;
 

@@ -1,8 +1,8 @@
-﻿namespace NServiceBus.NHibernate.Outbox
+﻿namespace NServiceBus_6.NHibernate.Outbox
 {
     using global::NHibernate.Mapping.ByCode.Conformist;
     using Configuration.AdvanceExtensibility;
-    using NServiceBus.Outbox.NHibernate;
+    using NServiceBus_6.Outbox.NHibernate;
 
     /// <summary>
     /// Outbox configuration extensions.

@@ -1,4 +1,4 @@
-namespace NServiceBus.TimeoutPersisters.NHibernate.Installer
+namespace NServiceBus_6.TimeoutPersisters.NHibernate.Installer
 {
     using System;
     using System.Collections.Generic;
@@ -10,7 +10,7 @@ namespace NServiceBus.TimeoutPersisters.NHibernate.Installer
     using global::NHibernate.Mapping;
     using global::NHibernate.Tool.hbm2ddl;
     using global::NHibernate.Util;
-    using NServiceBus.TimeoutPersisters.NHibernate.Config;
+    using NServiceBus_6.TimeoutPersisters.NHibernate.Config;
     using Environment = global::NHibernate.Cfg.Environment;
 
     class OptimizedSchemaUpdate

@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Versioning
+﻿namespace NServiceBus_6.AcceptanceTests.Versioning
 {
     using System.Threading.Tasks;
     using AcceptanceTesting;

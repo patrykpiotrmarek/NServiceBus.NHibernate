@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.PerfMon.SLA
+﻿namespace NServiceBus_6.AcceptanceTests.PerfMon.SLA
 {
     using System;
     using System.Diagnostics;

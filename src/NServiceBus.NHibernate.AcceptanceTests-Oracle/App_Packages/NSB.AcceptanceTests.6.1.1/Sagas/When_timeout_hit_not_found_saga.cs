@@ -1,11 +1,11 @@
-﻿namespace NServiceBus.AcceptanceTests.Sagas
+﻿namespace NServiceBus_6.AcceptanceTests.Sagas
 {
     using System;
     using System.Threading.Tasks;
     using AcceptanceTesting;
     using EndpointTemplates;
     using Features;
-    using NServiceBus.Sagas;
+    using NServiceBus_6.Sagas;
     using NUnit.Framework;
 
     public class When_timeout_hit_not_found_saga : NServiceBusAcceptanceTest

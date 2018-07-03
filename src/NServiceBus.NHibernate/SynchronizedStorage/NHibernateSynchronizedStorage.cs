@@ -1,9 +1,9 @@
-﻿namespace NServiceBus.Persistence.NHibernate
+﻿namespace NServiceBus_6.Persistence.NHibernate
 {
     using System.Threading.Tasks;
     using global::NHibernate;
-    using NServiceBus.Extensibility;
-    using NServiceBus.Persistence;
+    using NServiceBus_6.Extensibility;
+    using NServiceBus_6.Persistence;
 
     class NHibernateSynchronizedStorage : ISynchronizedStorage
     {

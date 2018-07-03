@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Sagas
+﻿namespace NServiceBus_6.AcceptanceTests.Sagas
 {
     using System;
     using System.Threading.Tasks;
@@ -7,7 +7,7 @@
     using global::NHibernate.Cfg;
     using global::NHibernate.Dialect;
     using global::NHibernate.Driver;
-    using NServiceBus.Persistence;
+    using NServiceBus_6.Persistence;
     using NUnit.Framework;
     using Environment = global::NHibernate.Cfg.Environment;
 

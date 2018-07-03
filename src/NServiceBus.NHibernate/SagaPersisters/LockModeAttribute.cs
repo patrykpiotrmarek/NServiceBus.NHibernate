@@ -1,4 +1,4 @@
-namespace NServiceBus.SagaPersisters.NHibernate
+namespace NServiceBus_6.SagaPersisters.NHibernate
 {
     using System;
 

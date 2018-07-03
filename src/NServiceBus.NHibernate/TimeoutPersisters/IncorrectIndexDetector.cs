@@ -1,11 +1,11 @@
-﻿namespace NServiceBus.TimeoutPersisters.NHibernate.Installer
+﻿namespace NServiceBus_6.TimeoutPersisters.NHibernate.Installer
 {
     using global::NHibernate.Cfg;
     using global::NHibernate.Dialect;
     using global::NHibernate.Mapping;
     using global::NHibernate.Tool.hbm2ddl;
     using NHibernate.Config;
-    using NServiceBus.Logging;
+    using NServiceBus_6.Logging;
     using System;
     using System.Collections.Generic;
     using System.Data;

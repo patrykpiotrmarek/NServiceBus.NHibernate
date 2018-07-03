@@ -1,8 +1,8 @@
 ﻿namespace Runner.Saga
 {
     using System;
-    using NServiceBus;
-    //using NServiceBus.SagaPersisters.NHibernate;
+    using NServiceBus_6;
+    //using NServiceBus_6.SagaPersisters.NHibernate;
 
     //enable the below attribute to play with different lock modes
     //[LockMode(LockModes.None)]

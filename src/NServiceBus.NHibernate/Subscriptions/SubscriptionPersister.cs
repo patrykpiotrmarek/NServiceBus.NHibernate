@@ -1,4 +1,4 @@
-namespace NServiceBus.Unicast.Subscriptions.NHibernate
+namespace NServiceBus_6.Unicast.Subscriptions.NHibernate
 {
     using System.Collections.Generic;
     using System.Linq;
@@ -8,7 +8,7 @@ namespace NServiceBus.Unicast.Subscriptions.NHibernate
     using global::NHibernate.Criterion;
     using Logging;
     using MessageDrivenSubscriptions;
-    using NServiceBus.Extensibility;
+    using NServiceBus_6.Extensibility;
     using IsolationLevel = System.Data.IsolationLevel;
 
     class SubscriptionPersister : ISubscriptionStorage

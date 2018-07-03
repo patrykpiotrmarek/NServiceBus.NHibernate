@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.EndpointTemplates
+﻿namespace NServiceBus_6.AcceptanceTests.EndpointTemplates
 {
     using System;
     using System.Collections.Generic;
@@ -6,7 +6,7 @@
     using AcceptanceTesting.Customization;
     using AcceptanceTesting.Support;
     using Features;
-    using NServiceBus.Config.ConfigurationSource;
+    using NServiceBus_6.Config.ConfigurationSource;
 
     public class ServerWithNoDefaultPersistenceDefinitions : IEndpointSetupTemplate
     {

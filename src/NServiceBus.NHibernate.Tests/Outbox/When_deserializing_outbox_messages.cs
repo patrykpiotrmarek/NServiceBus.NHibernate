@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.NHibernate.Tests.Outbox
+﻿namespace NServiceBus_6.NHibernate.Tests.Outbox
 {
     using System.Collections.Generic;
     using System.Globalization;

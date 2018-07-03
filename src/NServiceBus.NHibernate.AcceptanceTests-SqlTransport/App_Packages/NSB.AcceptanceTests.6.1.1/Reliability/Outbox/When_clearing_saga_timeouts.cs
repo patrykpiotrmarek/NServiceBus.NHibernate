@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Reliability.Outbox
+﻿namespace NServiceBus_6.AcceptanceTests.Reliability.Outbox
 {
     using System;
     using System.Threading.Tasks;
@@ -7,8 +7,8 @@
     using EndpointTemplates;
     using Extensibility;
     using Features;
-    using NServiceBus.Outbox;
-    using NServiceBus;
+    using NServiceBus_6.Outbox;
+    using NServiceBus_6;
     using NUnit.Framework;
     using Persistence;
     using ScenarioDescriptors;

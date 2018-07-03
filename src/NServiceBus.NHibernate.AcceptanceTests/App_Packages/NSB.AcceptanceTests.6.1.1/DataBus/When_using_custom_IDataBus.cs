@@ -1,11 +1,11 @@
-﻿namespace NServiceBus.AcceptanceTests.DataBus
+﻿namespace NServiceBus_6.AcceptanceTests.DataBus
 {
     using System;
     using System.IO;
     using System.Threading.Tasks;
     using AcceptanceTesting;
     using EndpointTemplates;
-    using NServiceBus.DataBus;
+    using NServiceBus_6.DataBus;
     using NUnit.Framework;
 
     public class When_using_custom_IDataBus : NServiceBusAcceptanceTest

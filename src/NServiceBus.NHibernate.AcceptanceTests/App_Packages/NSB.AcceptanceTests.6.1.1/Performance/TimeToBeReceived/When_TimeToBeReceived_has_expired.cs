@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Performance.TimeToBeReceived
+﻿namespace NServiceBus_6.AcceptanceTests.Performance.TimeToBeReceived
 {
     using System;
     using System.Threading.Tasks;

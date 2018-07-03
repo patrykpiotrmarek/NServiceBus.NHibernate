@@ -1,9 +1,9 @@
-namespace NServiceBus.Features
+namespace NServiceBus_6.Features
 {
     using System;
     using System.Linq;
     using global::NHibernate.Cfg;
-    using NServiceBus.Sagas;
+    using NServiceBus_6.Sagas;
     using SagaPersisters.NHibernate;
     using SagaPersisters.NHibernate.AutoPersistence;
     using Settings;

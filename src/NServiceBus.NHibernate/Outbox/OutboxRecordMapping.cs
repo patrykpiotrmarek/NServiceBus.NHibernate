@@ -1,4 +1,4 @@
-namespace NServiceBus.Outbox.NHibernate
+namespace NServiceBus_6.Outbox.NHibernate
 {
     using global::NHibernate;
     using global::NHibernate.Mapping.ByCode;

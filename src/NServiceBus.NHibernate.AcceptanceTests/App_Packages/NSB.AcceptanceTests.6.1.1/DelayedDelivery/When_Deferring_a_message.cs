@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.DelayedDelivery
+﻿namespace NServiceBus_6.AcceptanceTests.DelayedDelivery
 {
     using System;
     using System.Threading.Tasks;

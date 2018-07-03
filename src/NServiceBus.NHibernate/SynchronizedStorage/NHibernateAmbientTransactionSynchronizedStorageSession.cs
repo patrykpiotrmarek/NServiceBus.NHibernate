@@ -1,11 +1,11 @@
-﻿namespace NServiceBus.Persistence.NHibernate
+﻿namespace NServiceBus_6.Persistence.NHibernate
 {
     using System;
     using System.Data;
     using System.Threading.Tasks;
     using global::NHibernate;
     using Janitor;
-    using NServiceBus.Persistence;
+    using NServiceBus_6.Persistence;
 
     [SkipWeaving]
     class NHibernateLazyAmbientTransactionSynchronizedStorageSession : CompletableSynchronizedStorageSession, INHibernateSynchronizedStorageSession

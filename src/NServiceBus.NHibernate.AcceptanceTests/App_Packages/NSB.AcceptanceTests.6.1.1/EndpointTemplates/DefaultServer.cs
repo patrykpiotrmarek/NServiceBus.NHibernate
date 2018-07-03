@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.EndpointTemplates
+﻿namespace NServiceBus_6.AcceptanceTests.EndpointTemplates
 {
     using System;
     using System.Collections.Generic;
@@ -7,8 +7,8 @@
     using AcceptanceTesting.Support;
     using Configuration.AdvanceExtensibility;
     using Features;
-    using NServiceBus.Config.ConfigurationSource;
-    using NServiceBus.Serialization;
+    using NServiceBus_6.Config.ConfigurationSource;
+    using NServiceBus_6.Serialization;
 
     public class DefaultServer : IEndpointSetupTemplate
     {

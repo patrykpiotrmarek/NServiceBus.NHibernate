@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Reliability.Outbox
+﻿namespace NServiceBus_6.AcceptanceTests.Reliability.Outbox
 {
     using System;
     using System.Linq;
@@ -6,7 +6,7 @@
     using AcceptanceTesting;
     using Configuration.AdvanceExtensibility;
     using EndpointTemplates;
-    using NServiceBus.Pipeline;
+    using NServiceBus_6.Pipeline;
     using NUnit.Framework;
     using ScenarioDescriptors;
 

@@ -1,11 +1,11 @@
-﻿namespace NServiceBus.AcceptanceTests.Recoverability
+﻿namespace NServiceBus_6.AcceptanceTests.Recoverability
 {
     using System;
     using System.Threading.Tasks;
     using AcceptanceTesting;
     using AcceptanceTesting.Customization;
     using EndpointTemplates;
-    using NServiceBus.Pipeline;
+    using NServiceBus_6.Pipeline;
     using NUnit.Framework;
     using ScenarioDescriptors;
 

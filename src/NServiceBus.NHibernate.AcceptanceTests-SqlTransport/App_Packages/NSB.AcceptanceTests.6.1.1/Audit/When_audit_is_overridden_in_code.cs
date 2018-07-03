@@ -1,4 +1,4 @@
-﻿namespace NServiceBus.AcceptanceTests.Audit
+﻿namespace NServiceBus_6.AcceptanceTests.Audit
 {
     using System.Threading.Tasks;
     using AcceptanceTesting;
